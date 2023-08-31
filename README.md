@@ -14,4 +14,4 @@
 
 
 
-![Snake animation](https://github.com/Lucas-Aboud/Lucas-Aboud/blob/output/github-contribution-grid-snake.svg)
+
